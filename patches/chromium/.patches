@@ -75,3 +75,4 @@ disable_color_correct_rendering.patch
 add_contentgpuclient_precreatemessageloop_callback.patch
 picture-in-picture.patch
 disable_compositor_recycling.patch
+feat_add_set_override_should_use_dark_colors_to_allow_apps_to.patch
